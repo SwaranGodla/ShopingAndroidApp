@@ -1,4 +1,4 @@
-# DemoAppWindsurf - Modern Android E-Commerce Shopping App
+# DemoApp - Modern Android E-Commerce Shopping App
 
 A comprehensive native Android e-commerce shopping application built with modern Android development practices. This app showcases Clean Architecture principles, Jetpack Compose UI, and demonstrates a complete shopping experience with authentication, product browsing, cart management, and order processing.
 
