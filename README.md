@@ -126,8 +126,8 @@ This application follows **Clean Architecture** principles with clear separation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/DemoAppWindsurf.git
-   cd DemoAppWindsurf
+   git clone 
+   cd DemoApp
    ```
 
 2. **Open in Android Studio**:
